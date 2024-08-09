@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://kayu.erikodigital.com/</loc>
 		<lastmod>2024-08-07T06:55:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahsegitigakayu.jpeg</image:loc>
@@ -29,7 +29,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cafe-resto/</loc>
+		<loc>https://kayu.erikodigital.com/cafe-resto/</loc>
 		<lastmod>2024-08-07T04:49:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/cafe.jpg</image:loc>
@@ -60,7 +60,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/resort-villa/</loc>
+		<loc>https://kayu.erikodigital.com/resort-villa/</loc>
 		<lastmod>2024-08-07T04:13:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/ResortVilla.jpg</image:loc>
@@ -91,7 +91,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-kayu/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-kayu/</loc>
 		<lastmod>2024-08-07T03:52:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahkayu.jpg</image:loc>
@@ -122,7 +122,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/musholla/</loc>
+		<loc>https://kayu.erikodigital.com/musholla/</loc>
 		<lastmod>2024-08-07T01:59:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/3eca1e4c-8c45-49d1-a370-48d8ac97ba43.jpeg</image:loc>
@@ -153,7 +153,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-panggung/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-panggung/</loc>
 		<lastmod>2024-08-06T14:49:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahpanggung.jpg</image:loc>
@@ -184,7 +184,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-pendopo/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-pendopo/</loc>
 		<lastmod>2024-08-06T14:48:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Joglo.jpg</image:loc>
@@ -212,7 +212,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-limasan/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-limasan/</loc>
 		<lastmod>2024-08-06T14:47:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahadatjoglo.jpg</image:loc>
@@ -243,7 +243,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-joglo/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-joglo/</loc>
 		<lastmod>2024-08-06T14:45:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahadatjoglo.jpg</image:loc>
@@ -274,7 +274,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/gazebo-jati/</loc>
+		<loc>https://kayu.erikodigital.com/gazebo-jati/</loc>
 		<lastmod>2024-08-06T14:43:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/gazebokayu.jpg</image:loc>
@@ -305,7 +305,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/gazebo-glugu/</loc>
+		<loc>https://kayu.erikodigital.com/gazebo-glugu/</loc>
 		<lastmod>2024-08-06T14:37:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/gazebopano.jpg</image:loc>
@@ -336,7 +336,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/gazebo-bambu/</loc>
+		<loc>https://kayu.erikodigital.com/gazebo-bambu/</loc>
 		<lastmod>2024-08-06T14:29:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/gazebobambu.jpg</image:loc>
@@ -367,7 +367,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-bambu/</loc>
+		<loc>https://kayu.erikodigital.com/rumah-bambu/</loc>
 		<lastmod>2024-08-06T14:27:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahbambu.jpg</image:loc>
@@ -398,7 +398,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/portofolio/</loc>
+		<loc>https://kayu.erikodigital.com/portofolio/</loc>
 		<lastmod>2024-08-06T12:51:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumahbambu.jpg</image:loc>
@@ -420,11 +420,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak/</loc>
+		<loc>https://kayu.erikodigital.com/kontak/</loc>
 		<lastmod>2024-08-06T12:35:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tentang/</loc>
+		<loc>https://kayu.erikodigital.com/tentang/</loc>
 		<lastmod>2024-08-06T12:12:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pexels-photo-7174103-7174103-1024x683.jpg</image:loc>
